@@ -1,0 +1,14 @@
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.AssemblyInfoInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.AssemblyInfo.cs
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.csproj.CoreCompileInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\bin\Debug\net7.0\LISTAC#.exe
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\bin\Debug\net7.0\LISTAC#.deps.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\bin\Debug\net7.0\LISTAC#.runtimeconfig.json
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\bin\Debug\net7.0\LISTAC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\bin\Debug\net7.0\LISTAC#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\refint\LISTAC#.dll
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.pdb
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\LISTAC#.genruntimeconfig.cache
+C:\Users\BAN\OneDrive\Escritorio\PILAS}\LISTAC#\obj\Debug\net7.0\ref\LISTAC#.dll
